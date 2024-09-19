@@ -3,7 +3,8 @@
 # Arduino feito no Tinkercad
 -
 -
-![Editing Components (6)](https://github.com/user-attachments/assets/919b2e45-498f-4aa1-80ad-7570dc156f00)
+![image](https://github.com/user-attachments/assets/d76ce0d8-bb8d-4097-9805-0ab2dc0f40d4)
+
 -
 -
 # Materiais
