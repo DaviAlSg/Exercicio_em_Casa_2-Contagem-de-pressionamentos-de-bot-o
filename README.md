@@ -1,4 +1,4 @@
-# Exercicio_em_Casa_2-Contagem-de-pressionamentos-de-bot-o
+# Exercicio em Casa 2 Contagem de pressionamentos
 -
 # Arduino feito no Tinkercad
 -
