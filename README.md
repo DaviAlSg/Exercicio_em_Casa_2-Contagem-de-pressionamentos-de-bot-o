@@ -4,7 +4,9 @@
 -
 -
 ![image](https://github.com/user-attachments/assets/d76ce0d8-bb8d-4097-9805-0ab2dc0f40d4)
-
+-Para a montagem, é preciso conectar um botão entre o pino de 5V e o pino digital D2 do Arduino, utilizando um resistor de 10kΩ ligado ao GND.
+Depois, ligue um LED, com o terminal positivo (ânodo) conectado ao pino digital D12 e o terminal negativo (cátodo) passando por um resistor de 220Ω até o GND.
+Por fim, conecte os pinos de 5V e GND do Arduino à protoboard para fornecer energia ao circuito.
 -
 -
 # Materiais
