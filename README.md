@@ -3,16 +3,15 @@
 # Arduino feito no Tinkercad
 -
 -
-![image](https://github.com/user-attachments/assets/d76ce0d8-bb8d-4097-9805-0ab2dc0f40d4)
--Para a montagem, é preciso conectar um botão ao pino D2 do Arduino, usando um resistor de 10kΩ para o GND, e um LED ao pino D12, com um resistor de 220Ω até o GND.
+![image](https://github.com/user-attachments/assets/9aec8cb6-4954-4b27-b15a-700c0a322149)
+-Para a montagem, é preciso conectar um botão ao pino D2 do Arduino, usando um resistor de 10kΩ para o GND,
 O circuito contará quantas vezes o botão é pressionado. Conecte também os pinos de 5V e GND à protoboard para alimentação.
 -
 -
 # Materiais
 -
 1 Fio de 10 k ohm,
-1 Fio de 220 ohm,
-1 Led, 1 Protobord, 
+1 Protobord, 
 1 Botão.
 -
 # Código
